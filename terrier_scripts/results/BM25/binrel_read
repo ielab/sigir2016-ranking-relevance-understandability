@@ -1,0 +1,15 @@
+Coverage	all	.77
+ubpref	all	0.1891
+map                   	all	0.1492
+bpref                 	all	0.2466
+P_10                  	all	0.2894
+RBP(0.8)	all      	0.3172
+uRBP(0.8)	all      	0.2406
+uRBPgr(0.8)	all      	0.2512
+SIG_map	all	0.16
+SIG_P_10	all	0.29
+SIG_bpref	all	0.91
+SIG_ubpref	all	0.82
+SIG_RBP(0.8)	all	0.47
+SIG_uRBP(0.8)	all	0.03
+SIG_uRBPgr(0.8)	all	0.08

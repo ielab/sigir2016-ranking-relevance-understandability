@@ -1,0 +1,9 @@
+Coverage	all	.99
+bpref	all	0.2446
+ubpref	all	0.1905
+map                   	all	0.1667
+bpref                 	all	0.2446
+P_10                  	all	0.3136
+RBP(0.8)	all      	0.3326
+uRBP(0.8)	all      	0.2787
+uRBPgr(0.8)	all      	0.2804
